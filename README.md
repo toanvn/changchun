@@ -3,4 +3,5 @@
 Learn git and Ios, and make personal project
 
 -- Conflic from another person
-— Fail to test conflict
+-— Fail to test conflict
+-- retest conflic
